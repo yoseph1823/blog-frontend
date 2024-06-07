@@ -17,7 +17,7 @@ This is a Vue.js frontend application for managing a blog, interacting with a RE
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sachinda96/blog-front-end.git
+   git clone https://github.com/yoseph1823/blog-frontend
    ```
 
 2. Navigate to the project directory:
@@ -67,4 +67,4 @@ The application will start running on `http://localhost:8080`.
 
 ## Authors
 
-- Your Name - [@yourusername](https://github.com/sachinda96/blog-front-end.git)
+- Your Name - [@yourusername](https://github.com/yoseph1823/blog-frontend)
